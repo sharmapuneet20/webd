@@ -1,0 +1,40 @@
+*{
+  
+    padding: 0px;
+    margin: 0px;
+  }
+  img{
+    display: block ;
+    max-width: 100%;
+    
+  }
+  #intro{
+    background-color: grey;
+    display: flex;
+    width: auto;
+    height: 88px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: white;
+  
+  }
+  body{
+    background-color: black;
+  }
+  main{
+    background-color:black'
+  }
+  #tribute-info{
+    color: white;
+    
+    
+  }
+  ul{
+    display:block;
+    
+  }
+  
+  
+  
+  
